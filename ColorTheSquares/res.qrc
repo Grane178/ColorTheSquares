@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/backbtn1.png</file>
+        <file>resource/BackButton.png</file>
+        <file>resource/BackButtonSelected.png</file>
+        <file>resource/background1.jpg</file>
+        <file>resource/background2.jpg</file>
+        <file>resource/background3.jpg</file>
+        <file>resource/bgm1.wav</file>
+        <file>resource/bgm2.wav</file>
+        <file>resource/BoardNode.png</file>
+        <file>resource/cross1.png</file>
+        <file>resource/cross2.png</file>
+        <file>resource/cross5.png</file>
+        <file>resource/monster_green.png</file>
+        <file>resource/monster_green01.png</file>
+        <file>resource/monster_yellow.png</file>
+        <file>resource/monster_yellow02.png</file>
+        <file>resource/rule01.png</file>
+        <file>resource/start01.png</file>
+        <file>resource/success.png</file>
+        <file>resource/TapButtonSound.wav</file>
+        <file>resource/title2.png</file>
+    </qresource>
+</RCC>
